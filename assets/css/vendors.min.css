@@ -636,7 +636,8 @@
 }
 [data-aos^=zoom][data-aos^=zoom].aos-animate{
     opacity:1;
-    transform:translateZ(0) scale(1)
+    transform:translateZ(0) scale(1);
+    user-select: none;
 }
 [data-aos=zoom-in]{
     transform:scale(.6)
