@@ -45,7 +45,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - <None>
+      - daweedkob
 
 plugins:
   - "jekyll-github-metadata"
