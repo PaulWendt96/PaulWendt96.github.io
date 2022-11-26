@@ -7,8 +7,8 @@ typing_text: Software Engineer / QA Tester
 
 email: daweedkob@gmail.com
 telegram_username: that_one_martian
-linkedin_username: the-david-kobalia
-github_username: daweedkob
+linkedin_username: dkobalia
+github_username: insolitum
 facebook_username: DaWeedGone
 viber_number: 995599014780
 
@@ -33,11 +33,11 @@ show_contact_card: true
 contact_title: Contacts
 contact_description: Feel free to contact me wherever is comfortable for you
 
-repository: daweedkob/daweedkob.github.io
+repository: insolitum/insolitum.github.io
 github_pages:
   - sorting_algos
   - character_encoder
-  - daweedkob.github.io
+  - insolitum.github.io
   
 projects:
   sort_by: stars
@@ -45,7 +45,7 @@ projects:
     archived: true
     forks: true
     projects:
-      - daweedkob
+      - insolitum
 
 plugins:
   - "jekyll-github-metadata"
