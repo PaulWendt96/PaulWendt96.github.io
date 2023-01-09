@@ -56,6 +56,17 @@
   </a>
   {% endif %}
 
+  {% if site.instagram_username != null %}
+  <a class="social-link instagram" aria-label="My Instagram" target="_blank"
+     rel="noreferrer" href="https://instagram.com/{{site.instagram_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ '/assets/img/brands.svg#instagram' | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
   {% if site.facebook_username != null %}
   <a class="social-link facebook" aria-label="My Facebook" target="_blank"
      rel="noreferrer" href="https://facebook.com/{{site.facebook_username}}">
