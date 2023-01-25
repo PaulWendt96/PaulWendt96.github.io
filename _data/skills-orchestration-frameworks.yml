@@ -1,5 +1,5 @@
 - name: Dagster
   weight: 5
 
-- name: Cron 😏
+- name: Cron
   weight: 2
