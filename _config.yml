@@ -1,17 +1,13 @@
-title: David Kobalia
-description: David Kobalia's Personal Website
-baseurl: ""
+title: Paul Wendt
+description: Paul Wendt's Personal Website
+baseurl: ""  # fill this in when launching to github
 
-username: David Kobalia
-typing_text: Software Engineer / QA Tester
+username: Paul Wendt
+typing_text: Data Engineer
 
-email: daweedkob@gmail.com
-telegram_username: in_solitum
-linkedin_username: dkobalia
-github_username: insolitum
-facebook_username: DaWeedGone
-instagram_username: __m.artian__
-viber_number: 995599014780
+email: paulwendt567@gmail.com
+github_username: PaulWendt96
+phone_number: 6096356144
 
 show_aboutme_card: false
 about_me_title: About Me
@@ -22,23 +18,21 @@ skills_title: Skills
 
 show_timeline_card: true
 timeline_title: Education & Experience
-cv_download_link: https://resume.io/r/L57OtJ63W
+resume_download_link: assets/resume/paul_wendt.pdf 
 
-show_projects_card: true
+show_projects_card: false
 show_projects: false
 projects_title: Work Projects
-show_os_projects: true
+show_os_projects: false
 os_projects_title: Portfolio Projects
 
 show_contact_card: true
 contact_title: Contacts
-contact_description: Feel free to contact me wherever is comfortable for you
+contact_description: Please feel free to reach out!
 
-repository: insolitum/insolitum.github.io
+repository: PaulWendt96/PaulWendt96.github.io
 github_pages:
-  - sorting_algos
-  - character_encoder
-  - insolitum.github.io
+  - PaulWendt96.github.io
   
 projects:
   sort_by: stars
@@ -46,7 +40,9 @@ projects:
     archived: true
     forks: true
     projects:
-      - insolitum
+      - PaulWendt96
+
+opening_gif: assets/img/michael-scott.gif
 
 plugins:
   - "jekyll-github-metadata"

@@ -1,40 +1,29 @@
-- title: Exactpro Systems
-  title-url: https://exactpro.com/
-  date: Sep 2021 - Present
-  subtitle: Software Engineer
+- title: SimpliSafe
+  title-url: https://simplisafe.com/
+  date: Nov 2021 - Present
+  subtitle: Data Engineer
   tags:
     - tag: Python
-    - tag: Git
-    - tag: Software Testing
-    - tag: Linux
-    - tag: Jira
+    - tag: AWS
     - tag: SQL
-    - tag: Jenkins
-    - tag: Bitbucket
+    - tag: CDK
+    - tag: SQL
+    - tag: Bash
+    - tag: Linux
   timeline-side: right
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Jun 2020 - Sep 2020
-  subtitle: Troubleshooter
+- title: John Hancock
+  title-url: https://johnhancock.com/
+  date: May 2019 - Nov 2021
+  subtitle: Actuarial Associate
   tags:
-    - tag: Networking
-    - tag: Communications
-    - tag: Zsmart
+    - tag: Python
+    - tag: R
+    - tag: VBA
   timeline-side: left
 
-- title: Silknet
-  title-url: https://silknet.com/
-  date: Nov 2019 - Apr 2020
-  subtitle: Troubleshooter
-  tags:
-    - tag: Networking
-    - tag: Communications
-    - tag: Zsmart
+- title: Temple University
+  title-url: https://www.temple.edu
+  date: 2015 - 2019
+  subtitle: Bachelor of Business Administration w/ minor in Computer Science
   timeline-side: right
-
-- title: Business And Technology University
-  title-url: https://btu.edu.ge/
-  date: 2019 - 2023
-  subtitle: Bachelor of Information Systems and Technologies
-  timeline-side: left
