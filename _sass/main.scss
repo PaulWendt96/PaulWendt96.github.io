@@ -445,7 +445,8 @@ a {
 #skills {
   align-items: center;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  flex-direction: row
   justify-content: center;
 
   div {
@@ -457,11 +458,11 @@ a {
     color: #e84a5f;
   }
 
-  div[skill-type="framework"] {
-    color: #ff847c;
+  div[skill-type="tool"] {
+    color: #fecea8;
   }
 
-  div[skill-type="tool"] {
+  div[skill-type="framework"] {
     color: #fecea8;
   }
 
@@ -527,6 +528,17 @@ a {
 
   .timeline li {
     padding: 1rem 0;
+  }
+
+  img {
+    height: 3rem;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    position: absolute;
+    right: 0;
+    top: -0.8rem;
+    width: 3rem;
   }
 
   .hexagon {
@@ -851,6 +863,12 @@ a {
       text-align: right;
       width: 18.5rem;
 
+      img {
+        left: auto;
+        right: -5.65rem;
+        top: 1rem;
+      }
+
       .hexagon {
         left: auto;
         right: -1.6rem;
@@ -876,6 +894,12 @@ a {
       float: right;
       text-align: left;
       width: 18.5rem;
+
+      img {
+        left: -5.65rem;
+        right: auto;
+        top: 1rem;
+      }
 
       .hexagon {
         left: -1.6rem;

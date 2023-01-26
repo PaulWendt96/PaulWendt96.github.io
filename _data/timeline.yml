@@ -1,5 +1,6 @@
 - title: SimpliSafe
   title-url: https://simplisafe.com/
+  img-src: assets/img/simplisafe.svg
   date: Nov 2021 - Present
   subtitle: Data Engineer
   tags:
@@ -14,6 +15,7 @@
 
 - title: John Hancock
   title-url: https://johnhancock.com/
+  img-src: assets/img/john_hancock.jpeg
   date: May 2019 - Nov 2021
   subtitle: Actuarial Associate
   tags:
@@ -24,6 +26,7 @@
 
 - title: Temple University
   title-url: https://www.temple.edu
+  img-src: assets/img/temple.svg
   date: 2015 - 2019
   subtitle: Bachelor of Business Administration w/ minor in Computer Science
   timeline-side: right
